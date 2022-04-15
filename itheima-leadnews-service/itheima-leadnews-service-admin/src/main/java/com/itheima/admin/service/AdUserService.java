@@ -11,7 +11,7 @@ import java.util.Map;
  * 管理员用户信息表 服务类
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 public interface AdUserService extends IService<AdUser> {

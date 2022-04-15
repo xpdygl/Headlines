@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  * APP设备信息表 服务实现类
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 @Service
 public class ApEquipmentServiceImpl extends ServiceImpl<ApEquipmentMapper, ApEquipment> implements ApEquipmentService {

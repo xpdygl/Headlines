@@ -17,7 +17,7 @@ import java.time.LocalDateTime;
  * APP身份认证信息表
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2021-10-21
  */
 @Data

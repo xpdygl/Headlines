@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * APP用户设备信息表 服务类
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 public interface ApUserEquipmentService extends IService<ApUserEquipment> {
 

@@ -12,8 +12,8 @@ import com.itheima.core.controller.AbstractCoreController;
 /**
 * <p>
 * 热文章表 控制器</p>
-* @author ljh
-* @since 2021-12-22
+* @author xh
+* @since 2022-04-10
 */
 @Api(value="热文章表",tags = "ApHotArticlesController")
 @RestController

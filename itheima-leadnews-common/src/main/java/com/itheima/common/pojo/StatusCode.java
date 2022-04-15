@@ -3,7 +3,7 @@ package com.itheima.common.pojo;
 /**
  * 枚举类状态码
  *
- * @author ljh
+ * @author xh
  * @version 1.0
  * @date 2021/2/19 10:49
  * @description 标题

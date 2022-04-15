@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
  * 频道标签信息表 服务实现类
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 @Service

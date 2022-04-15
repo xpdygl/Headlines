@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  * APP用户关注信息表 服务实现类
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 @Service
 public class ApUserFollowServiceImpl extends ServiceImpl<ApUserFollowMapper, ApUserFollow> implements ApUserFollowService {

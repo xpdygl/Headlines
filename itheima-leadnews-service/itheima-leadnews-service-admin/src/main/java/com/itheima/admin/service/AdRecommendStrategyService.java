@@ -8,7 +8,7 @@ import com.itheima.admin.pojo.AdRecommendStrategy;
  * 推荐策略信息表 服务类
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 public interface AdRecommendStrategyService extends IService<AdRecommendStrategy> {

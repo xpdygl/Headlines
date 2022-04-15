@@ -17,7 +17,7 @@ import java.time.LocalDateTime;
  * APP用户搜索信息表
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2021-10-21
  */
 @Data

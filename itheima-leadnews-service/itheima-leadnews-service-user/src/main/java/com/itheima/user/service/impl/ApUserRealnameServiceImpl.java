@@ -23,8 +23,8 @@ import java.time.LocalDateTime;
  * APP实名认证信息表 服务实现类
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 @Service
 public class ApUserRealnameServiceImpl extends ServiceImpl<ApUserRealnameMapper, ApUserRealname> implements ApUserRealnameService {
@@ -75,7 +75,7 @@ public class ApUserRealnameServiceImpl extends ServiceImpl<ApUserRealnameMapper,
             Result<WmUser> result = wmUserFegin.save(wmUser);
             wmUser = result.getData();
         }
-
+//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
 
         //通过feign远程调用 文章微服务 创建作者
         ApAuthor apAuthor = apAuthorFeign.getByApUserId(apUserId);

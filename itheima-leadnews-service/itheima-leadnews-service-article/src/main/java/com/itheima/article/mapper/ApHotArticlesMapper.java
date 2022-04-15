@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 热文章表 Mapper 接口
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 public interface ApHotArticlesMapper extends BaseMapper<ApHotArticles> {
 

@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  * 搜索热词表 服务实现类
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 @Service
 public class ApHotWordsServiceImpl extends ServiceImpl<ApHotWordsMapper, ApHotWords> implements ApHotWordsService {

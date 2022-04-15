@@ -16,8 +16,8 @@ import lombok.EqualsAndHashCode;
  * 文章信息表，存储已发布的文章
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

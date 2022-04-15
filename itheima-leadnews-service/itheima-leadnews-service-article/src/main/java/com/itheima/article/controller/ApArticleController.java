@@ -12,8 +12,8 @@ import com.itheima.core.controller.AbstractCoreController;
 /**
 * <p>
 * 文章信息表，存储已发布的文章 控制器</p>
-* @author ljh
-* @since 2021-12-22
+* @author xh
+* @since 2022-04-10
 */
 @Api(value="文章信息表，存储已发布的文章",tags = "ApArticleController")
 @RestController

@@ -9,7 +9,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.Bean;
 
 /**
-* @author ljh
+* @author xh
 * @version 1.0
 * @date 2021/5/2 11:36
 * @description 标题

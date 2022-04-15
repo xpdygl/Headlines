@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 文章信息表，存储已发布的文章 服务类
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 public interface ApArticleService extends IService<ApArticle> {
 

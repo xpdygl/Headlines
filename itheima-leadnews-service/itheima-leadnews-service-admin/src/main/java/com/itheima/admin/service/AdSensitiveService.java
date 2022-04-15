@@ -8,7 +8,7 @@ import com.itheima.admin.pojo.AdSensitive;
  * 敏感词信息表 服务类
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 public interface AdSensitiveService extends IService<AdSensitive> {

@@ -8,7 +8,7 @@ import com.itheima.admin.pojo.AdMenu;
  * 菜单资源信息表 服务类
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 public interface AdMenuService extends IService<AdMenu> {

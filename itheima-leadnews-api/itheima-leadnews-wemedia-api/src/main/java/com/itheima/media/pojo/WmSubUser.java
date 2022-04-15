@@ -15,7 +15,7 @@ import java.io.Serializable;
  * 自媒体子账号信息表
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2021-10-21
  */
 @Data

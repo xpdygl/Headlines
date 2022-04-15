@@ -8,7 +8,7 @@ import com.itheima.admin.pojo.AdUserRole;
  * 管理员角色信息表 Mapper 接口
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 public interface AdUserRoleMapper extends BaseMapper<AdUserRole> {

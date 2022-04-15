@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
 * <p>
 * 推荐策略分组信息表 控制器</p>
-* @author ljh
+* @author xh
 * @since 2022-04-10
 */
 @RestController

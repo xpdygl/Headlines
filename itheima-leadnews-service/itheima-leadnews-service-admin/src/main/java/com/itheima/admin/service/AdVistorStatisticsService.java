@@ -8,7 +8,7 @@ import com.itheima.admin.pojo.AdVistorStatistics;
  * 访问数据统计表 服务类
  * </p>
  *
- * @author ljh
+ * @authorxh
  * @since 2022-04-10
  */
 public interface AdVistorStatisticsService extends IService<AdVistorStatistics> {

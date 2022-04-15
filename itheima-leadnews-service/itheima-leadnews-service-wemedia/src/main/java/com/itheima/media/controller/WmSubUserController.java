@@ -12,8 +12,8 @@ import com.itheima.core.controller.AbstractCoreController;
 /**
 * <p>
 * 自媒体子账号信息表 控制器</p>
-* @author ljh
-* @since 2021-12-22
+* @author xh
+* @since 2022-04-10
 */
 @Api(value="自媒体子账号信息表",tags = "WmSubUserController")
 @RestController

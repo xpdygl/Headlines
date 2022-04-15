@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
  * 管理员设备信息表
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 @Data

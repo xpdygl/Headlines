@@ -11,8 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
 * <p>
 * 文章数据统计表 控制器</p>
-* @author ljh
-* @since 2022-04-10
 */
 @RestController
 @RequestMapping("/adArticleStatistics")

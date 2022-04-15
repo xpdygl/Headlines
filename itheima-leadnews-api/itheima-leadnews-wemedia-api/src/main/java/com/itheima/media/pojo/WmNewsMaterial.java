@@ -16,7 +16,7 @@ import java.io.Serializable;
  * 自媒体图文引用素材信息表  【暂时不用】
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2021-10-21
  */
 @Data

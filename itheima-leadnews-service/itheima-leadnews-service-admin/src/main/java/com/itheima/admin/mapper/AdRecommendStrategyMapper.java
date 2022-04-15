@@ -8,7 +8,7 @@ import com.itheima.admin.pojo.AdRecommendStrategy;
  * 推荐策略信息表 Mapper 接口
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 public interface AdRecommendStrategyMapper extends BaseMapper<AdRecommendStrategy> {

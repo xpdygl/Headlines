@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
  * 菜单资源信息表
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 @Data

@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  * 自媒体图文内容信息表 服务实现类
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 @Service
 public class WmNewsServiceImpl extends ServiceImpl<WmNewsMapper, WmNews> implements WmNewsService {

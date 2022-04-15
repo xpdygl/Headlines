@@ -8,7 +8,7 @@ import com.itheima.admin.pojo.AdArticleStatistics;
  * 文章数据统计表 Mapper 接口
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 public interface AdArticleStatisticsMapper extends BaseMapper<AdArticleStatistics> {

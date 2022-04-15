@@ -17,7 +17,7 @@ import java.time.LocalDate;
  * 自媒体图文数据统计表
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2021-10-21
  */
 @Data

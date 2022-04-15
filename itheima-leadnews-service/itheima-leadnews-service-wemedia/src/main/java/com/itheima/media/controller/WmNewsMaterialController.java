@@ -12,8 +12,8 @@ import com.itheima.core.controller.AbstractCoreController;
 /**
 * <p>
 * 自媒体图文引用素材信息表  【暂时不用】 控制器</p>
-* @author ljh
-* @since 2021-12-22
+* @author xh
+* @since 2022-04-10
 */
 @Api(value="自媒体图文引用素材信息表  【暂时不用】",tags = "WmNewsMaterialController")
 @RestController

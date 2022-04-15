@@ -8,8 +8,8 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * 自媒体图文引用素材信息表  【暂时不用】 Mapper 接口
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 public interface WmNewsMaterialMapper extends BaseMapper<WmNewsMaterial> {
 

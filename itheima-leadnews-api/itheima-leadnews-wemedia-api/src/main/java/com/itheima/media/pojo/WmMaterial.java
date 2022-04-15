@@ -17,7 +17,7 @@ import java.time.LocalDateTime;
  * 自媒体图文素材信息表
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2021-10-21
  */
 @Data

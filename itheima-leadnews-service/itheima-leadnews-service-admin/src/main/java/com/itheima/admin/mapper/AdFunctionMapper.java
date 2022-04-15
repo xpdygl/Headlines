@@ -8,7 +8,7 @@ import com.itheima.admin.pojo.AdFunction;
  * 页面功能信息表 Mapper 接口
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 public interface AdFunctionMapper extends BaseMapper<AdFunction> {

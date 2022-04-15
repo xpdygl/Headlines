@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
  * 文章信息表，存储已发布的文章 服务实现类
  * </p>
  *
- * @author ljh
- * @since 2021-12-22
+ * @author xh
+ * @since 2022-04-10
  */
 @Service
 public class ApArticleServiceImpl extends ServiceImpl<ApArticleMapper, ApArticle> implements ApArticleService {

@@ -8,7 +8,7 @@ import com.itheima.admin.pojo.AdRoleAuth;
  * 角色权限信息表 服务类
  * </p>
  *
- * @author ljh
+ * @authorxh
  * @since 2022-04-10
  */
 public interface AdRoleAuthService extends IService<AdRoleAuth> {

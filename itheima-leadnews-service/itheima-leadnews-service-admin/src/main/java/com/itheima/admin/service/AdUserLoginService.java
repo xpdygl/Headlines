@@ -8,7 +8,7 @@ import com.itheima.admin.pojo.AdUserLogin;
  * 管理员登录行为信息表 服务类
  * </p>
  *
- * @author ljh
+ * @author xh
  * @since 2022-04-10
  */
 public interface AdUserLoginService extends IService<AdUserLogin> {
