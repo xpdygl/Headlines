@@ -45,4 +45,5 @@ public class FileController {
         //设置返回图片的路径
         return Result.ok(map);
     }
+
 }

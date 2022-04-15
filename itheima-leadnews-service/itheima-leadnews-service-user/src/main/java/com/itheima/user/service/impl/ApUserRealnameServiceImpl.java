@@ -75,7 +75,7 @@ public class ApUserRealnameServiceImpl extends ServiceImpl<ApUserRealnameMapper,
             Result<WmUser> result = wmUserFegin.save(wmUser);
             wmUser = result.getData();
         }
-//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
+//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
 
         //通过feign远程调用 文章微服务 创建作者
         ApAuthor apAuthor = apAuthorFeign.getByApUserId(apUserId);

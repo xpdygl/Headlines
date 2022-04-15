@@ -1,6 +1,7 @@
 package com.itheima.media.controller;
 
 
+import com.itheima.common.pojo.Result;
 import com.itheima.media.pojo.WmMaterial;
 import com.itheima.media.service.WmMaterialService;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -8,6 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import io.swagger.annotations.Api;
 import org.springframework.web.bind.annotation.RestController;
 import com.itheima.core.controller.AbstractCoreController;
+
+import java.time.LocalDateTime;
 
 /**
 * <p>
@@ -29,5 +32,15 @@ public class WmMaterialController extends AbstractCoreController<WmMaterial> {
         this.wmMaterialService=wmMaterialService;
     }
 
+    @Override
+    public Result<WmMaterial> insert(WmMaterial record) {
+        //1.设置补充属性
+        //todo 先硬编码 设置为该素材所属的自媒体账号ID
+        record.setUserId(1000);
+        record.setCreatedTime(LocalDateTime.now());
+        record.setType(0);
+        record.setIsCollection(0);
+        return Result.ok();
+    }
 }
 
