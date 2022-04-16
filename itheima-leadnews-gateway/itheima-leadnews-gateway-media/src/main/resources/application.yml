@@ -112,3 +112,10 @@ spring:
             - Path=/dfs/**
           filters:
             - StripPrefix= 1
+        - id: admin
+            uri: lb://leadnews-admin
+            predicates:
+              - Path=/admin/**
+              - methoe=GET
+            filters:
+              - StripPrefix= 1
